@@ -22,9 +22,3 @@ The database supports multi-table analytical queries to evaluate player and team
 - Retrieved player and coach data across teams and conferences
 - Analyzed points per game, games played, and three-point statistics
 - Executed complex queries across 2–5 tables using joins, grouping, and aggregations
-
-## Files in This Repository
-- `nba_queries.sql` – SQL queries used for analysis
-- `NBA_Database_Project_Report.pdf` – Full project documentation
-- `NBA_Database_Project_Presentation.pdf` – Final presentation slides
-- `erd_diagram.png` – Entity Relationship Diagram
