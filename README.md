@@ -11,7 +11,7 @@ The database supports multi-table analytical queries to evaluate player and team
 - Microsoft Access
 - Relational Database Design
 - Entity-Relationship Modeling
-- Data Normalization (3NF)
+
 
 ## Database Design
 - Designed ER diagrams and converted them into normalized relational schemas
